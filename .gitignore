@@ -24,4 +24,4 @@ yarn-error.log*
 
 *.data.js
 src/images/*
-src/config.js
+src/firebase/config.js

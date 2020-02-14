@@ -24,3 +24,4 @@ yarn-error.log*
 
 *.data.js
 src/images/*
+src/config.js

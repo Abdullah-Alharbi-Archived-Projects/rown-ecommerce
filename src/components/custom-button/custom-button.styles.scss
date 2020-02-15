@@ -14,6 +14,8 @@
   border: none;
   cursor: pointer;
   border: 1px solid black;
+  transition: 350ms ease-out;
+  border-radius: 5px;
 
   &:hover {
     background-color: white;
@@ -26,7 +28,7 @@
     color: white;
 
     &:hover {
-      background-color: #357ae8;
+      background-color: #2b61b8;
     }
   }
 }
